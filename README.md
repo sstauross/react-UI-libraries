@@ -17,3 +17,4 @@ A collection of React UI libraries
 * https://github.com/mui-org/material-ui
 * https://github.com/ant-design/ant-design
 * https://github.com/Shopify/polaris-react
+* https://github.com/elastic/eui
