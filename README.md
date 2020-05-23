@@ -13,7 +13,7 @@ A collection of React UI libraries
 * https://github.com/nexxtway/react-rainbow
 * https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/
 * https://github.com/auth0/cosmos
-* https://github.com/OfficeDev/office-ui-fabric-react
+* https://github.com/microsoft/fluentui
 * https://github.com/mui-org/material-ui
 * https://github.com/ant-design/ant-design
 * https://github.com/Shopify/polaris-react
